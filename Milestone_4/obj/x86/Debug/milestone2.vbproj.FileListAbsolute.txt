@@ -1,0 +1,479 @@
+E:\m2\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\m2\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+E:\m2\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+E:\m2\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+E:\m2\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\m2\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+E:\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\milestone2\milestone2\bin\Debug\milestone2.exe
+E:\milestone2\milestone2\bin\Debug\milestone2.pdb
+E:\milestone2\milestone2\bin\Debug\milestone2.xml
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+E:\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\milestone2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\210522543\Desktop\milestone2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\milestone2\milestone2\bin\Debug\milestone2.xml
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\milestone2\milestone2\bin\Debug\milestone2.exe.config
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+M:\milestone2\milestone2\bin\Debug\milestone2.pdb
+M:\milestone2\milestone2\bin\Debug\milestone2.xml
+M:\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+M:\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+M:\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\bin\Debug\milestone2.xml
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\209521854\Desktop\flash\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+F:\flash\milestone2\milestone2\bin\Debug\milestone2.exe.config
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+F:\flash\milestone2\milestone2\bin\Debug\milestone2.pdb
+F:\flash\milestone2\milestone2\bin\Debug\milestone2.xml
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.vbprojResolveAssemblyReference.cache
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.vbproj.GenerateResource.Cache
+F:\flash\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+E:\BACKUP\milestone2\milestone2\bin\Debug\milestone2.exe.config
+E:\BACKUP\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+E:\BACKUP\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+E:\BACKUP\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+M:\Ntokozo\milestone2\milestone2\bin\Debug\milestone2.exe.config
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+M:\Ntokozo\milestone2\milestone2\bin\Debug\milestone2.pdb
+M:\Ntokozo\milestone2\milestone2\bin\Debug\milestone2.xml
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\209521854\Desktop\milestone2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\milestone2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\milestone2\milestone2\bin\Debug\milestone2.xml
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\209521854\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+M:\Ntokozo\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\bin\Debug\milestone2.xml
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\210522543\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\bin\Debug\milestone2.xml
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\210522543\Desktop\Final2\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\Final\milestone2\milestone2\bin\Debug\milestone2.exe.config
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+M:\Final\milestone2\milestone2\bin\Debug\milestone2.pdb
+M:\Final\milestone2\milestone2\bin\Debug\milestone2.xml
+M:\Final\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+M:\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\bin\Debug\milestone2.xml
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.246.tlog
+C:\Users\209521854\Desktop\Final\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.258.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\bin\Debug\milestone2.exe.config
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.exe
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.xml
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.pdb
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\bin\Debug\milestone2.pdb
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\bin\Debug\milestone2.xml
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.246.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.258.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.85.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.109.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.217.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.202.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.328.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.371.tlog
+E:\Flash\BBRWSystem_19.05.14\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.372.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.109.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.202.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.217.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.246.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.258.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.328.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.371.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.372.tlog
+C:\Users\210522543\Desktop\milestone2\milestone2\obj\x86\Debug\GenerateResource.write.85.tlog
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\bin\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\milestone2 - Copy\milestone2\bin\Debug\milestone2.xml
+E:\Flash\milestone2 - Copy\milestone2\bin\Debug\milestone2.exe.config
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.exe
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.xml
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.pdb
+E:\Flash\milestone2 - Copy\milestone2\bin\Debug\milestone2.pdb
+E:\Flash\milestone2 - Copy\milestone2\bin\Debug\milestone2.xml
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Resources.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Flash\milestone2 - Copy\milestone2\bin\Debug\milestone2.exe.config
+F:\Flash\milestone2 - Copy\milestone2\bin\Debug\milestone2.pdb
+F:\Flash\milestone2 - Copy\milestone2\bin\Debug\milestone2.xml
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.vbprojResolveAssemblyReference.cache
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Resources.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.vbproj.GenerateResource.Cache
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.exe
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.xml
+F:\Flash\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.pdb
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.exe.config
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.exe
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.xml
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.pdb
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.pdb
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.xml
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.vbprojResolveAssemblyReference.cache
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Resources.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+F:\Flash\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.vbproj.GenerateResource.Cache
+M:\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.exe.config
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.exe
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.xml
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.pdb
+M:\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.pdb
+M:\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.xml
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Resources.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.exe.config
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.pdb
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\bin\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.vbprojResolveAssemblyReference.cache
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.Resources.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.vbproj.GenerateResource.Cache
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.exe
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\M2FinalSystem\milestone2 - Copy\milestone2\obj\x86\Debug\milestone2.pdb
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\bin\Debug\milestone2.exe.config
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.exe
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.pdb
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.exe.config
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.exe
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.pdb

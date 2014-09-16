@@ -1,0 +1,325 @@
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\bin\Debug\milestone2.exe.config
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\bin\Debug\milestone2.pdb
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\bin\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.Resources.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.exe
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.pdb
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.1.0\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.exe.config
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.exe
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.pdb
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.pdb
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.xml
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Resources.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+D:\A_32\Academic\Level - 3\ISTN32B\Development\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+M:\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.exe.config
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.exe
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.xml
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.pdb
+M:\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.pdb
+M:\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.xml
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Resources.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+M:\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.pdb
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.xml
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\TEMP.UKZN.000\Desktop\me\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.exe.config
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.exe
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.xml
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.pdb
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.pdb
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\bin\Debug\milestone2.xml
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.Resources.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+M:\WorkingOn\Milestone_3_Beta_v0.10.1\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+M:\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+M:\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.pdb
+M:\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.xml
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.pdb
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.xml
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Email.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FrontEnd_Copy\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Email.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Email.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\209521854\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.xml
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.xml
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Email.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\210522543\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+D:\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+D:\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.pdb
+D:\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.xml
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Email.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.xml
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Email.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\210522543\Desktop\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache
+M:\M3_FINALS\WithChange\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+M:\M3_FINALS\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+M:\M3_FINALS\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+M:\M3_FINALS\WithChange\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.exe.config
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.exe
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.xml
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.pdb
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.pdb
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\bin\Debug\milestone2.xml
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbprojResolveAssemblyReference.cache
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddCustomer.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddProduct.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.AddSupplier.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ChangePassword.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditCustomer.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditProduct.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.EditSupplierDetails.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Email.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Invoice.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.LoginForm.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.MainMDIForm.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.Resources.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ProcessSale.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.SplashScreen.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllPayments.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllProducts.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewAllSales.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewCustomers.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\milestone2.ViewSuppliers.resources
+C:\Users\Ntokozo\Desktop\Milestone_3_Beta_v0.10.2\milestone2\obj\x86\Debug\Milestone_3_Beta.vbproj.GenerateResource.Cache

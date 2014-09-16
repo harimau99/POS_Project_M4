@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introduction">
+		<param name="Local" value="Introduction.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Access">
+		<param name="Local" value="AccessControl.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Login">
+		<param name="Local" value="AccessControl.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Logout">
+		<param name="Local" value="AccessControl.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Customer">
+		<param name="Local" value="Customer.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Supplier">
+		<param name="Local" value="Supplier.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Product">
+		<param name="Local" value="Product.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Sales">
+		<param name="Local" value="Sales.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Payments">
+		<param name="Local" value="Payments.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Reports">
+		<param name="Local" value="Reports.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Email">
+		<param name="Local" value="Email.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Search">
+		<param name="Local" value="Customer.htm">
+		<param name="Local" value="Product.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Update">
+		<param name="Local" value="Customer.htm">
+		<param name="Local" value="Supplier.htm">
+		<param name="Local" value="Product.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Delete">
+		<param name="Local" value="Customer.htm">
+		<param name="Local" value="Supplier.htm">
+		<param name="Local" value="Product.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="View">
+		<param name="Local" value="Customer.htm">
+		<param name="Local" value="Supplier.htm">
+		<param name="Local" value="Product.htm">
+		<param name="Local" value="Sales.htm">
+		<param name="Local" value="Payments.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Details">
+		<param name="Local" value="Customer.htm">
+		<param name="Local" value="Supplier.htm">
+		<param name="Local" value="Product.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Invoice">
+		<param name="Local" value="Sales.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>

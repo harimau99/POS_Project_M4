@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "POS_Project", "milestone2\POS_Project.vbproj", "{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Milestone_3_Beta.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Debug|x86.ActiveCfg = Debug|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Debug|x86.Build.0 = Debug|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Release|Any CPU.ActiveCfg = Release|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Release|x86.ActiveCfg = Release|x86
+		{0491896E-AB8F-44B6-B8B6-BA305C6B0D29}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

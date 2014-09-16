@@ -1,0 +1,29 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=..\..\..\Milestone_3_Beta_v0.10.chm
+Contents file=Table of Contents2.hhc
+Default Window=BBRW Help System
+Default topic=AccessControl.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index2.hhk
+Language=0x1c09 English (South Africa)
+
+[WINDOWS]
+BBRW Help System="BBRW Help System","Table of Contents2.hhc","Index2.hhk","IndexPage.htm","IndexPage.htm",,,,,0x22520,,0x3846,[0,0,800,600],0x830000,,,,,,0
+
+
+[FILES]
+AccessControl.htm
+Customer.htm
+Email.htm
+IndexPage.htm
+Introduction.htm
+Payments.htm
+Product.htm
+Reports.htm
+Sales.htm
+Supplier.htm
+
+[INFOTYPES]
+
