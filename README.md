@@ -1,4 +1,4 @@
 POS_Project_M4
 ==============
 
-3rd year major project - 2014.
+UKZN Information Systems major project - 2014.
